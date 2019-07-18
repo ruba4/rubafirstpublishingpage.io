@@ -1,0 +1,96 @@
+body{
+margin:0px;
+padding:0px;
+background-color:black;
+}
+.main-content{
+background-image: url("image/background-plane.jpg");
+background-size:100%;
+width:1280px;
+height:770px;
+margin:auto;
+}
+#logo{
+width:200px;
+height:40px;
+margin-top:20px;
+float: left;
+}
+.top-menu{
+float:right;
+margin-top:20px;
+}
+.main-text h1{
+color:#3dc6ef;
+font-size:2.5em;
+}
+.top-menu img{
+margin-right:20px;}
+
+.main-text p{
+color: #d1d1d1;
+font-size:13
+}
+
+.main-text button :hover{
+background-color:#3dc6ef
+font-size:13;
+background-color:black;
+border: 2px solid #3dc6ef;
+}
+
+.main-text{
+margin-top:200px;
+width:400px;
+ background-color:black;
+margin-bottom:700px;
+font-family:arial;
+}
+.middle-bar{
+margin-top:70px;
+position:absolute;
+height:120px;
+width:100%;
+left:0;}
+
+.left-rect{
+background-color:#007db8;
+width:15%;
+height:100%;
+float:left;}
+
+.right-rect{
+background-color:#007db8;
+width:40%;
+height:100%;
+float:right;
+margin-left: 200%;
+}
+
+.middle-bar-content{
+padding:0px;
+margin-top:-100px;
+position:abslute ;
+width:300%;
+left:40%; 
+color: white;
+float:left;
+
+}
+
+.middle-bar-content li{
+width:200px;
+list-style:none;
+float: left;
+text-align:center;
+margin-right: 20% px;
+}
+
+.middle-bar-content img{
+width: 40%;}
+
+.middle-bar-content span {
+color:#ffffff;
+}
+
+
